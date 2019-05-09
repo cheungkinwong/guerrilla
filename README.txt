@@ -1,3 +1,16 @@
+
+
+Downloaded solid state template from html5up.net
+
+started from http://www.wokvanantwerpen.be
+I tried to keep all the information from the original website while making a better layout using the template.
+Changed all the pictures, and added all the text.
+Had a hard time figuring out how the template was written since it didn't had a proper readme.
+It was hard to figure out what was coded where with all the import.
+I found one bug; there is a reference to an image file that does not excist. 
+But I couldn't find where the reference is made so i can't change it.
+
+
 Solid State by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
@@ -29,14 +42,6 @@ Credits:
 		jQuery (jquery.com)
 		Scrollex (github.com/ajlkn/jquery.scrollex)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
-
-Downloaded solid state template from html5up.net
-
-started from http://www.wokvanantwerpen.be
-I tried to keep all the information from the original website while making a better layout using the template.
-Changed all the pictures, and added all the text.
-Had a hard time figuring out how the template was written since it didn't had a proper readme.
-It was hard to figure out what was coded where with all the import.
 
 
 Creative Commons Attribution 3.0 Unported
