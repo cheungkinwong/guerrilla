@@ -33,4 +33,7 @@ Credits:
 Downloaded solid state template from html5up.net
 
 started from http://www.wokvanantwerpen.be
-
+I tried to keep all the information from the original website while making a better layout using the template.
+Changed all the pictures, and added all the text.
+Had a hard time figuring out how the template was written since it didn't had a proper readme.
+It was hard to figure out what was coded where with all the import.
